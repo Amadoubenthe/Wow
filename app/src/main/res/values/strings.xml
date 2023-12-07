@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">Sans frais c\'est zoo</string>
+    <string name="send_text">Envoyer de l\'argent à vos\n proches SANS FRAIS ! </string>
+    <string name="signup_input_name">Votre nom et prénom</string>
+    <string name="signup_input_phone">Votre numéro de téléphone</string>
+    <string name="signup_input_secret">Votre code secret</string>
+    <string name="secret_code">Code secret requis pour déverouiller</string>
+    <string name="send_text2">Envoyer de l\'argent \nà votre proche</string>
+    <string name="send_input_name">Nom du bénéficiaire</string>
+    <string name="send_input_phone">Numéro wow du bénéficiaire</string>
+    <string name="send_input_amount">Montant (minimum 1 F)</string>
+    <string name="send_success">Transaction effectuée avec succès</string>
+</resources>
